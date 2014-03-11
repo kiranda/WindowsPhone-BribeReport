@@ -75,7 +75,7 @@
             <TextBlock x:Name="lblDescription" HorizontalAlignment="Left" Margin="23,45,0,0" TextWrapping="Wrap" Text="Description (max 150 chars)" VerticalAlignment="Top"/>
             <TextBlock x:Name="lblAmount" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Amount" VerticalAlignment="Top" Margin="23,195,0,0"/>
 
-            <UI:AdControl x:Name="adunitbr2" ApplicationId="a40faefc-cdb9-46f3-885c-320fe02144c5" AdUnitId="10719768" HorizontalAlignment="Left" Height="80" Margin="0,487,0,0" VerticalAlignment="Top" Width="480"/>
+            <UI:AdControl x:Name="AD NAME" ApplicationId="AD APP ID" AdUnitId="UNIT ID" HorizontalAlignment="Left" Height="80" Margin="0,487,0,0" VerticalAlignment="Top" Width="480"/>
             <HyperlinkButton x:Name="sitelink" Content="bribe-report.org" HorizontalAlignment="Left" Margin="182,400,0,0" VerticalAlignment="Top" NavigateUri="http://www.bribe-report.org" TargetName="_blank" FontSize="20" RenderTransformOrigin="1.052,0.568"/>
             <TextBlock HorizontalAlignment="Left" Margin="133,400,0,0" TextWrapping="Wrap" Text="Go to" VerticalAlignment="Top"/>
 

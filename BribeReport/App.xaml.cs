@@ -23,7 +23,7 @@ namespace BribeReport
         /// <summary>
         /// Constructor for the Application object.
         /// </summary>
-        public static MobileServiceClient MobileService = new MobileServiceClient("https://bribereport.azure-mobile.net/", "hcjInbrJGOPGxbAneQVOhJNqunsdhc71");
+        public static MobileServiceClient MobileService = new MobileServiceClient("AZURE SITE URL", "APP KEY");
        
         public App()
         {

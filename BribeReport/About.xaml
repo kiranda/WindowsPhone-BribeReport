@@ -71,7 +71,7 @@
 				<Run/>
 
             </TextBlock>
-            <UI:AdControl x:Name="adunitbr2" ApplicationId="a40faefc-cdb9-46f3-885c-320fe02144c5" AdUnitId="10719768" HorizontalAlignment="Left" Height="80" Margin="0,453,0,0" VerticalAlignment="Top" Width="480"/>
+            <UI:AdControl x:Name="AD NAMR" ApplicationId="ADD ID" AdUnitId="UNIT ID" HorizontalAlignment="Left" Height="80" Margin="0,453,0,0" VerticalAlignment="Top" Width="480"/>
             <HyperlinkButton Content="bribe-report.org" HorizontalAlignment="Left" Margin="210,388,0,0" VerticalAlignment="Top" NavigateUri="http://www.bribe-report.org" TargetName="_blank" FontSize="24" FontFamily="Portable User Interface"/>
             <TextBlock HorizontalAlignment="Left" Margin="69,388,0,0" TextWrapping="Wrap" Text="Learn more at" VerticalAlignment="Top" FontFamily="Portable User Interface" FontSize="24"/>
         </Grid>
